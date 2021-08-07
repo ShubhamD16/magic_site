@@ -2,7 +2,9 @@
 
 A Flutter project with parellax effect.
 
--[Demo](https://cosmic-14.netlify.app/#/)
+[Demo](https://cosmic-14.netlify.app/#/)
+
+![COSMIC](https://github.com/ShubhamD16/magic_site/blob/main/assets/COSMIC.png)
 
 ## Getting Started
 
