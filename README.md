@@ -1,6 +1,8 @@
 # magic_site
 
-A new Flutter project.
+A Flutter project with parellax effect.
+
+-[Demo](https://cosmic-14.netlify.app/#/)
 
 ## Getting Started
 
